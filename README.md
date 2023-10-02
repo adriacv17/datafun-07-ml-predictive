@@ -17,47 +17,20 @@ Tasks for this module at the end of README.md
 2. Read through the book and examples from Chapter 15 on Machine Learning, focusing on 15.4 Simple Linear Regression and Predictions.
 
 
-
-### Set up a Virtual Environment
-
-Next, we'll create and activate a virtual environment specifically for this project. We'll also install additional packages required for this project.
-
-
-
-
 ### Create a Virtual Environment
-
-1. Open the terminal in VS Code. (View / Terminal)
-2. Run the following command to **create** a virtual environment for this project.
 
 ```shell
 python -m venv .venv
 ```
 
-Verify that a new `.venv` folder was created. It may take a while for the command to complete.
-
-🚀 Rocket Tip: When VS Code Python Extension offers to select the Environment, say Yes.
-
-
-
-
 ### Activate the Virtual Environment
-
-Wait for the creation to finish, then **activate** the virtual environment:
 
 - For PowerShell: `.\.venv\Scripts\Activate`
 - For macOS/Linux:  `source .venv/bin/`
 
-🚀 Rocket Tip: Notice the terminal changes to reflect the active virtual environment.
-
-
-
 
 ### Install Dependencies to the Active Virtual Environment
 
-Install additional project dependencies into the active virtual environment.
-The packages ipykernel and jupyterlab are required to run a notebook.
-The packages pandas, matplotlib, and seaborn are used to work with data and charts.
 
 ```shell
 python -m pip install --upgrade pip ipykernel jupyterlab
