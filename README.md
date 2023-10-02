@@ -69,12 +69,6 @@ b. Include instructions with the exact commands to: <br>
 a. Add and commit all your changes with a commit message "Initialized repo"<br>
 b. Push your changes to GitHub
  
-
-#### Task 1 - Verify Repository
-1. Take a screenshot of your GitHub project repository after you've pushed these changes to GitHub.
-2. Display the screenshot as evidence of task completion.
- 
-
 ### Task 2 - Work Through Chapter 10 <br>
 Read and work through Chapter 10 - Object-Oriented Programming - and understand the examples. <br>
 
@@ -96,11 +90,6 @@ Read and work through Chapter 10 - Object-Oriented Programming - and understand 
 10.16 ★ Intro to Data Science: Time Series and Simple Linear Regression<br>
  
 
-#### Task 2 - Verify Ch 10<br>
-1. Take a screenshot of one of the Chapter 10 examples running in your VS Code environment on your machine.<br>
-2. Tell us why you chose that part of your work. <br>
- 
-
 ### Task 3 - Work Through Chapter 15<br>
 Read and work through Chapter 15 - Machine Learning - and understand the examples. <br>
 
@@ -113,11 +102,6 @@ Read and work through Chapter 15 - Machine Learning - and understand the example
 15.3 Case Study: Classification with k-Nearest Neighbors and the Digits Dataset, Part 2<br>
 15.4 ★ Case Study: Time Series and Simple Linear Regression<br>
 Suggestion: Specify data file paths as Python raw strings. See FAQ for more.<br>
-
-#### Task 3 - Verify Ch 15
-1. Take a screenshot of one of the Chapter 15 examples running in your VS Code environment on your machine.
-2. Tell us why you chose that part of your work.
- 
 
 ### Task 4 - Implement 10.16 and 15.4 <br>
 Add a notebook to your project repository and follow the process provided in the text. <br>
@@ -173,11 +157,6 @@ Excellent analytical skills need professional communication skills to be of maxi
 4. Verify your GitHub notebook appears complete and well-presented. 
  
 
-#### Task 4 - Verify
-1. Capture a screenshot of your completed notebook as viewed in GitHub at the conclusion of this task.
-2. Display the screenshot as evidence of task completion.
-
-
 ### Optional Bonus
 1. Practice more machine learning skills by working through 15.5 with the California Housing Dataset.
 2. In the same notebook, add a Markdown heading for Part 3 - Bonus.
@@ -192,7 +171,3 @@ Excellent analytical skills need professional communication skills to be of maxi
 3. At the end, use a commit message like "Part 3 Bonus complete".
 4. Verify your GitHub notebook appears complete and well-presented. 
  
-
-#### Optional Bonus - Verify
-1. Capture a screenshot of your completed notebook as viewed in GitHub at the conclusion of this task.
-2. Disply the screenshot as evidence of task completion.
